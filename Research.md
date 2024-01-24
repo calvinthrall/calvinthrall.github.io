@@ -5,8 +5,8 @@ title: ""
 
 ### Peer-reviewed Publications
 
-[6] [Informational Lobbying and Commercial Diplomacy](assets/amcham_adst_nyu.pdf)<br>
-**_American Journal of Political Science_**, Conditionally Accepted.
+[6] [Informational Lobbying and Commercial Diplomacy](assets/thrall_lobbying_diplomacy.pdf)<br>
+**_American Journal of Political Science_**, Forthcoming.
 
 [5] [The Promise of Economic Integration: Evidence from the First Bank in an American Indian Nation](assets/BAP_final.pdf) (with D.L. Feir and Rachel L. Wellhausen)<br>
 **_Business and Politics_**, Forthcoming.
@@ -31,10 +31,10 @@ title: ""
 ### Working Papers
 
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
-Previously (briefly) titled "The Oligarch's Offshore Dilemma."
+Previously (briefly) titled "The Oligarch's Offshore Dilemma." Under Review.
 
 [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_WP.pdf) <br>
-David A. Lake Award for best paper presented at IPES 2020. Under Review.
+David A. Lake Award for best paper presented at IPES 2020. 
 
 [Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_anon_bjps.pdf) (with Nathan M. Jensen)
 
@@ -49,6 +49,8 @@ Revolving Door Diplomats (with David Lindsey and Matt Malis)
 [Treaty Diplomacy and the Global Firm](assets/treaty_regimes_IPES.pdf)
 
 Transparency Shocks and Private Governance in Offshore Finance (with Daniel Berliner and Nikhil Kalyanpur)
+
+Public or Private? Demand Shocks and the Market for Climate Experts (with Noah Zucker)
 
 Measuring Academic Prestige (with Anne Meng)
 
