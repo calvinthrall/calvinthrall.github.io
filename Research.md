@@ -33,8 +33,8 @@ title: ""
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
 Previously (briefly) titled "The Oligarch's Offshore Dilemma." Under Review.
 
-[Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_WP.pdf) <br>
-David A. Lake Award for best paper presented at IPES 2020. 
+[Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_feb_8_2024.pdf) <br>
+David A. Lake Award for best paper presented at IPES 2020. Under Review.
 
 [Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_anon_bjps.pdf) (with Nathan M. Jensen)
 
@@ -42,7 +42,7 @@ David A. Lake Award for best paper presented at IPES 2020.
 
 _Piecemeal Diplomacy: Globalization, Interest Groups, and the Atomization of Foreign Policy_ (Book Project)
 
-The Bureaucratic Origins of International Law (with Matt Malis)
+Diplomatic Capacity and International Cooperation (with Matt Malis)
 
 Revolving Door Diplomats (with David Lindsey and Matt Malis)
 
