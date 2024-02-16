@@ -8,7 +8,7 @@ title: ""
 [6] [Informational Lobbying and Commercial Diplomacy](assets/thrall_lobbying_diplomacy.pdf)<br>
 **_American Journal of Political Science_**, Forthcoming.
 
-[5] [The Promise of Economic Integration: Evidence from the First Bank in an American Indian Nation](assets/BAP_final.pdf) (with D.L. Feir and Rachel L. Wellhausen)<br>
+[5] [Stakeholder Cues, National Origin, and Public Opinion Towards Firms: Evidence in the Context of the First Bank in an American Indian Nation](assets/wft_bap_forthcoming.pdf) (with D.L. Feir and Rachel L. Wellhausen)<br>
 **_Business and Politics_**, Forthcoming.
 
 [4] [Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/sqad007.pdf) (with Carolina Moehlecke and Rachel L. Wellhausen)<br>
