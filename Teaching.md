@@ -25,14 +25,14 @@ evade rules that they don’t want to follow? We will also frequently engage wit
 interactions between MNEs and governments through the lens of social science theory.
 </details>
 
-#### Business and Politics in a Globalized World [U]
+#### [Business and Politics in a Globalized World [U]](assets/ugrad_buspol_spring_24.pdf)
 <details>
     <summary>Course description</summary>
 <br>
    Companies (or, as we'll mostly refer to them, firms) play a number of important roles in both domestic and international politics; among other activities, they create jobs, engage in trade and investment, create social responsibility programs, lobby governments, and create much of the world's pollution. How should we think about firms as political actors? Why, when, and how do firms attempt to influence policymaking? And when do they succeed? In this course, we will study strategic collaboration, competition, and collusion between firms and governments in a range of settings and policy areas. To do so, we will draw on insights from international relations, economics, and business scholars, and we will frequently engage with current real-world examples of business-government relations. Topics will include (among others) lobbying, corporate social responsibility, taxation and tax avoidance, public-private governance, and corporate influence in foreign policy.
 </details>
 
-#### Firms in (International) Political Economy [G]
+#### [Firms in (International) Political Economy [G]](assets/grad_firms_syllabus_spring_24.pdf)
 <details>
     <summary>Course description</summary>
 <br>
