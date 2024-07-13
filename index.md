@@ -4,7 +4,6 @@ title: ""
 ---
 
 
-### Bio
 
 <img style="float: right; padding: 50px;" src="assets/thrall_headshot_2022.JPG">
 Hello and welcome! I am an Assistant Professor of Political Science at <a href="https://polisci.columbia.edu/">Columbia University</a>, where I am also associated with the <a href="https://www.siwps.org/programs/the-politics-and-global-economy-page-lab/">Politics and the Global Economy (PaGE) Lab</a> at the Saltzman Institute. <br>
