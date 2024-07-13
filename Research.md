@@ -40,20 +40,17 @@ David A. Lake Award for best paper presented at IPES 2020. **Revise and Resubmit
 
 ### Works in Progress
 
-_Piecemeal Diplomacy: Globalization, Interest Groups, and the Atomization of Foreign Policy_ (Book Project)
+_The Atomizers: Multinational Firms and the Fragmentation of Global Economic Governance_ <br>
+(Book project. Subsumes former working paper titled Treaty Diplomacy and the Global Firm)
 
 Diplomatic Capacity and International Cooperation (with Matt Malis)
 
 Revolving Door Diplomats (with David Lindsey and Matt Malis)
-
-[Treaty Diplomacy and the Global Firm](assets/treaty_regimes_IPES.pdf)
 
 Transparency Shocks and Private Governance in Offshore Finance (with Daniel Berliner and Nikhil Kalyanpur)
 
 Public or Private? Demand Shocks and the Market for Climate Experts (with Simran Singh and Noah Zucker)
 
 Measuring Academic Prestige (with Anne Meng)
-
-
 
 
