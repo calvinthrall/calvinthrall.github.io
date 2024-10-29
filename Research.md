@@ -5,11 +5,15 @@ title: ""
 
 ### Peer-reviewed Publications
 
+[7] [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_isq_manuscript_revised_full.pdf) <br>
+**_International Studies Quarterly_**, Forthcoming. 
+- David A. Lake Award for best paper presented at IPES 2020. 
+
 [6] [Informational Lobbying and Commercial Diplomacy](assets/T4_ajps.pdf)<br>
 **_American Journal of Political Science_**, Forthcoming.
 
 [5] [Stakeholder Cues, National Origin, and Public Opinion Towards Firms: Evidence in the Context of the First Bank in an American Indian Nation](assets/wft_bap_forthcoming.pdf) (with D.L. Feir and Rachel L. Wellhausen)<br>
-**_Business and Politics_**, Forthcoming.
+**_Business and Politics_**, 2024, 26(1): 1-26.
 
 [4] [Global Value Chains as a Constraint on Sovereignty: Evidence from Investor-State Dispute Settlement](assets/sqad007.pdf) (with Carolina Moehlecke and Rachel L. Wellhausen)<br>
 **_International Studies Quarterly_**, 2023, 67(1).
@@ -33,10 +37,7 @@ title: ""
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
 Previously (briefly) titled "The Oligarch's Offshore Dilemma."
 
-[Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_feb_8_2024.pdf) <br>
-David A. Lake Award for best paper presented at IPES 2020. **Revise and Resubmit, _International Studies Quarterly_**.
-
-[Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_anon_bjps.pdf) (with Nathan M. Jensen)
+[Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_october_2024.pdf) (with Nathan M. Jensen)
 
 ### Works in Progress
 
