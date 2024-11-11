@@ -34,7 +34,7 @@ title: ""
 
 ### Working Papers
 
-[Transnational Information Shocks](assets/bkt_nov_2024) (with Daniel Berliner and Nikhil Kalyanpur)
+[Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
 Previously (briefly) titled "The Oligarch's Offshore Dilemma."
