@@ -34,6 +34,8 @@ title: ""
 
 ### Working Papers
 
+[Transnational Information Shocks](assets/bkt_nov_2024) (with Daniel Berliner and Nikhil Kalyanpur)
+
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
 Previously (briefly) titled "The Oligarch's Offshore Dilemma."
 
@@ -48,9 +50,9 @@ Diplomatic Capacity and International Cooperation (with Matt Malis)
 
 Revolving Door Diplomats (with David Lindsey and Matt Malis)
 
-Transparency Shocks and Private Governance in Offshore Finance (with Daniel Berliner and Nikhil Kalyanpur)
+Gender Bias and Diplomatic Representation (with David Lindsey and Matt Malis)
 
-Public or Private? Demand Shocks and the Market for Climate Experts (with Simran Singh and Noah Zucker)
+Greener Pastures? A Labor Market Theory of Climate Governance (with Simran Singh and Noah Zucker)
 
 Measuring Academic Prestige (with Anne Meng)
 
