@@ -5,6 +5,8 @@ title: ""
 
 ### The Atomizers: Multinational Firms and the Fragmentation of Global Economic Governance
 
+<img style="float: center; padding: 50px;" src="assets/pinn_cartoon.png">
+
 In the first decades following World War II, the world’s industrial powers believed that the global
 economy should be regulated by institutions that are inclusive, cooperative, and multilateral. In
 the 21st century, however, most global economic governance is conducted through ad hoc bilateral
