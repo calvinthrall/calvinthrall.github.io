@@ -22,7 +22,6 @@ bilateral integration.
 
 Using a wide range of novel data sources—including bilateral chambers of commerce, text data
 from oral history interviews with thousands of U.S. diplomats, declassified diplomatic cables, and
-subnational trade data from the USSR—this book demonstrates that, paradoxically, the globaliza-
-tion of the firm led to the atomization of global economic governance.
+subnational trade data from the USSR—this book demonstrates that, paradoxically, the globalization of the firm led to the atomization of global economic governance.
 
 For more details, see this [draft book proposal](assets/atomizers_proposal.pdf).
