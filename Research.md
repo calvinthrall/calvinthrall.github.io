@@ -34,6 +34,8 @@ title: ""
 
 ### Working Papers
 
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/greener_pastures.pdf) (with Simran Singh and Noah Zucker)
+
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
@@ -52,7 +54,7 @@ Revolving Door Diplomats (with David Lindsey and Matt Malis)
 
 Gender Bias and Diplomatic Representation (with David Lindsey and Matt Malis)
 
-Greener Pastures? A Labor Market Theory of Climate Governance (with Simran Singh and Noah Zucker)
+Organized Capital and the State
 
 Measuring Academic Prestige (with Anne Meng)
 
