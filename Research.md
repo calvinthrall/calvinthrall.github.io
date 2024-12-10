@@ -34,7 +34,7 @@ title: ""
 
 ### Working Papers
 
-[Greener Pastures? A Labor Market Theory of Climate Governance](assets/greener_pastures.pdf) (with Simran Singh and Noah Zucker)
+[Greener Pastures? A Labor Market Theory of Climate Governance](https://osf.io/preprints/osf/6ue7n) (with Simran Singh and Noah Zucker)
 
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
