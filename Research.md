@@ -41,7 +41,8 @@ title: ""
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
 Previously (briefly) titled "The Oligarch's Offshore Dilemma."
 
-[Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_october_2024.pdf) (with Nathan M. Jensen)
+[Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_october_2024.pdf) (with Nathan M. Jensen)<br>
+Revise and Resubmit, **_Economics & Politics_**.
 
 ### Works in Progress
 
