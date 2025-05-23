@@ -5,12 +5,16 @@ title: ""
 
 ### Peer-reviewed Publications
 
-[7] [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_isq_manuscript_revised_full.pdf) <br>
-**_International Studies Quarterly_**, Forthcoming. 
-- David A. Lake Award for best paper presented at IPES 2020. 
 
-[6] [Informational Lobbying and Commercial Diplomacy](assets/T4_ajps.pdf)<br>
+[8] [Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_final.pdf) (with Nathan M. Jensen)<br>
+**_Economics & Politics_**, Forthcoming.
+
+[7] [Informational Lobbying and Commercial Diplomacy](assets/T4_ajps.pdf)<br>
 **_American Journal of Political Science_**, Forthcoming.
+
+[6] [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_isq_manuscript_revised_full.pdf) <br>
+**_International Studies Quarterly_**, 2025, 69(1). 
+- David A. Lake Award for best paper presented at IPES 2020. 
 
 [5] [Stakeholder Cues, National Origin, and Public Opinion Towards Firms: Evidence in the Context of the First Bank in an American Indian Nation](assets/wft_bap_forthcoming.pdf) (with D.L. Feir and Rachel L. Wellhausen)<br>
 **_Business and Politics_**, 2024, 26(1): 1-26.
@@ -41,9 +45,6 @@ title: ""
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
 Previously (briefly) titled "The Oligarch's Offshore Dilemma."
 
-[Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_october_2024.pdf) (with Nathan M. Jensen)<br>
-Revise and Resubmit, **_Economics & Politics_**.
-
 ### Works in Progress
 
 _The Atomizers: Multinational Firms and the Fragmentation of Global Economic Governance_ <br>
@@ -55,7 +56,7 @@ Revolving Door Diplomats (with David Lindsey and Matt Malis)
 
 Gender Bias and Diplomatic Representation (with David Lindsey and Matt Malis)
 
-Organized Capital and the State
+Industrial Diversification and the Rise of the Local Chamber
 
 Measuring Academic Prestige (with Anne Meng)
 
