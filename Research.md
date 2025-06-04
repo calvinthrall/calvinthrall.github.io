@@ -38,6 +38,8 @@ title: ""
 
 ### Working Papers
 
+[Industrial Diversification and the Rise of the Local Chamber](assets/chambers_cbp_2025.pdf)
+
 [Greener Pastures? A Labor Market Theory of Climate Governance](https://osf.io/preprints/osf/6ue7n) (with Simran Singh and Noah Zucker)
 
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
@@ -52,11 +54,11 @@ _The Atomizers: Multinational Firms and the Fragmentation of Global Economic Gov
 
 Diplomatic Capacity and International Cooperation (with Matt Malis)
 
-Revolving Door Diplomats (with David Lindsey and Matt Malis)
+Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 
-Gender Bias and Diplomatic Representation (with David Lindsey and Matt Malis)
+Representation Without Authority: Evidence from Women in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
-Industrial Diversification and the Rise of the Local Chamber
+Common Ownership and Political Competition (with Max Kagan and Reilly Steel)
 
 Measuring Academic Prestige (with Anne Meng)
 
