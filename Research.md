@@ -38,6 +38,8 @@ title: ""
 
 ### Working Papers
 
+[Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service](assets/lmt_13june2025.pdf) (with David Lindsey and Matt Malis)<br> Under Review.
+
 [Industrial Diversification and the Rise of the Local Chamber](assets/chambers_cbp_2025.pdf)
 
 [Greener Pastures? A Labor Market Theory of Climate Governance](https://osf.io/preprints/osf/6ue7n) (with Simran Singh and Noah Zucker)
@@ -55,8 +57,6 @@ _The Atomizers: Multinational Firms and the Fragmentation of Global Economic Gov
 Diplomatic Capacity and International Cooperation (with Matt Malis)
 
 Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
-
-Representation Without Authority: Evidence from Women in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
 Common Ownership and Political Competition (with Max Kagan and Reilly Steel)
 
