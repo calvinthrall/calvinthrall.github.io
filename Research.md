@@ -9,8 +9,8 @@ title: ""
 [8] [Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_final.pdf) (with Nathan M. Jensen)<br>
 **_Economics & Politics_**, Forthcoming.
 
-[7] [Informational Lobbying and Commercial Diplomacy](assets/T4_ajps.pdf)<br>
-**_American Journal of Political Science_**, Forthcoming.
+[7] [Informational Lobbying and Commercial Diplomacy](assets/t4_ajps.pdf)<br>
+**_American Journal of Political Science_**, 2025, 69(3): 1147-1162.
 
 [6] [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_isq_manuscript_revised_full.pdf) <br>
 **_International Studies Quarterly_**, 2025, 69(1). 
@@ -42,7 +42,7 @@ title: ""
 
 [Industrial Diversification and the Rise of the Local Chamber](assets/chambers_cbp_2025.pdf)
 
-[Greener Pastures? A Labor Market Theory of Climate Governance](https://osf.io/preprints/osf/6ue7n) (with Simran Singh and Noah Zucker)
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_july_2025.pdf) (with Simran Singh and Noah Zucker)<br> Under Review.
 
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
@@ -59,6 +59,8 @@ Diplomatic Capacity and International Cooperation (with Matt Malis)
 Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 
 Common Ownership and Political Competition (with Max Kagan and Reilly Steel)
+
+Doing Business with China (with Samantha Mussell)
 
 Measuring Academic Prestige (with Anne Meng)
 
