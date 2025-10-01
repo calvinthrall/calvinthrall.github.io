@@ -38,11 +38,11 @@ title: ""
 
 ### Working Papers
 
-[Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service](assets/lmt_13june2025.pdf) (with David Lindsey and Matt Malis)<br> Under Review.
+[Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service](assets/lmt_13june2025.pdf) (with David Lindsey and Matt Malis)
 
 [Industrial Diversification and the Rise of the Local Chamber](assets/chambers_cbp_2025.pdf)
 
-[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_july_2025.pdf) (with Simran Singh and Noah Zucker)<br> Under Review.
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_july_2025.pdf) (with Simran Singh and Noah Zucker)
 
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
@@ -58,7 +58,7 @@ Diplomatic Capacity and International Cooperation (with Matt Malis)
 
 Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 
-Common Ownership and Political Competition (with Max Kagan and Reilly Steel)
+Common Ownership and Political Competition (with Reilly Steel)
 
 Doing Business with China (with Samantha Mussell)
 
