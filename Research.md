@@ -62,7 +62,7 @@ Common Ownership and Political Competition (with Reilly Steel)
 
 Doing Business with China (with Samantha Mussell)
 
-Global Governance By Invite Only (with Noah Zucker)
+Global Governance By Invitation Only (with Noah Zucker)
 
 Measuring Academic Prestige (with Anne Meng)
 
