@@ -44,6 +44,8 @@ title: ""
 
 [Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_july_2025.pdf) (with Simran Singh and Noah Zucker)
 
+[Diplomatic Capacity and International Cooperation](assets/capacity_oct_2025.pdf) (with Matt Malis)
+
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
 [Exporting Capital, Importing Law](assets/kalyanpur_thrall_march_2023.pdf) (with Nikhil Kalyanpur)<br>
@@ -54,13 +56,13 @@ Previously (briefly) titled "The Oligarch's Offshore Dilemma."
 _The Atomizers: Multinational Firms and the Fragmentation of Global Economic Governance_ <br>
 (Book project. Subsumes former working paper titled Treaty Diplomacy and the Global Firm)
 
-Diplomatic Capacity and International Cooperation (with Matt Malis)
-
 Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 
 Common Ownership and Political Competition (with Reilly Steel)
 
 Doing Business with China (with Samantha Mussell)
+
+Global Governance By Invite Only (with Noah Zucker)
 
 Measuring Academic Prestige (with Anne Meng)
 
