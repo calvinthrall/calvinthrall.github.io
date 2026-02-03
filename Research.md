@@ -40,7 +40,8 @@ title: ""
 
 [Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service](assets/lmt_13june2025.pdf) (with David Lindsey and Matt Malis)
 
-[Industrial Diversification and the Rise of the Local Chamber](assets/chambers_cbp_2025.pdf)
+[Organized Business in the American City](assets/chambers_2_3_26.pdf)<br>
+Under review. Previously titled "Industrial Diversification and the Rise of the Local Chamber."
 
 [Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_july_2025.pdf) (with Simran Singh and Noah Zucker)
 
