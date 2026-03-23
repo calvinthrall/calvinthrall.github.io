@@ -38,7 +38,7 @@ title: ""
 
 ### Working Papers
 
-[Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service](assets/lmt_13june2025.pdf) (with David Lindsey and Matt Malis)
+Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
 [Organized Business in the American City](assets/chambers_2_3_26.pdf)<br>
 Under review. Previously titled "Industrial Diversification and the Rise of the Local Chamber."
@@ -61,7 +61,7 @@ Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 
 Common Ownership and Political Competition (with Reilly Steel)
 
-Doing Business with China (with Samantha Mussell)
+The China Lobby and The China Shock (with Samantha Mussell)
 
 Global Governance By Invitation Only (with Noah Zucker)
 
