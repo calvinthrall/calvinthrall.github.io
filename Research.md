@@ -40,10 +40,10 @@ title: ""
 
 Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
-[Organized Business in the American City](assets/chambers_2_3_26.pdf)<br>
+[Organized Business in the American City](assets/chambers_may_26.pdf)<br>
 Under review. Previously titled "Industrial Diversification and the Rise of the Local Chamber."
 
-[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_july_2025.pdf) (with Simran Singh and Noah Zucker)
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)
 
 [Diplomatic Capacity and International Cooperation](assets/capacity_oct_2025.pdf) (with Matt Malis)
 
@@ -58,8 +58,6 @@ _The Atomizers: Multinational Firms and the Fragmentation of Global Economic Gov
 (Book project. Subsumes former working paper titled Treaty Diplomacy and the Global Firm)
 
 Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
-
-Common Ownership and Political Competition (with Reilly Steel)
 
 The China Lobby and The China Shock (with Samantha Mussell)
 
