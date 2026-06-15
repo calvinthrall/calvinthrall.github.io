@@ -38,12 +38,16 @@ title: ""
 
 ### Working Papers
 
+[Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](assets/kofsp.pdf)<br>
+Revise and Resubmit, **_Nature: Scientific Data_**
+
 Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
 [Organized Business in the American City](assets/chambers_may_26.pdf)<br>
 Under review. Previously titled "Industrial Diversification and the Rise of the Local Chamber."
 
-[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)<br>
+Under review.
 
 [Diplomatic Capacity and International Cooperation](assets/capacity_oct_2025.pdf) (with Matt Malis)
 
