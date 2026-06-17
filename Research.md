@@ -11,6 +11,7 @@ title: ""
 
 [7] [Informational Lobbying and Commercial Diplomacy](assets/t4_ajps.pdf)<br>
 **_American Journal of Political Science_**, 2025, 69(3): 1147-1162.
+- Best Article Award, APSA International Collaboration Section, 2025.
 
 [6] [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_isq_manuscript_revised_full.pdf) <br>
 **_International Studies Quarterly_**, 2025, 69(1). 
@@ -38,7 +39,7 @@ title: ""
 
 ### Working Papers
 
-[Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](assets/kofsp.pdf)<br>
+[Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](assets/kofsp.pdf) (with David Lindsey and Matt Malis) <br>
 Revise and Resubmit, **_Nature: Scientific Data_**
 
 Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
