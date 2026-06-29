@@ -7,7 +7,7 @@ title: ""
 
 
 [8] [Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_final.pdf) (with Nathan M. Jensen)<br>
-**_Economics & Politics_**, Forthcoming.
+**_Economics & Politics_**, 2025, 37(3): 841-1178.
 
 [7] [Informational Lobbying and Commercial Diplomacy](assets/t4_ajps.pdf)<br>
 **_American Journal of Political Science_**, 2025, 69(3): 1147-1162.
@@ -39,16 +39,16 @@ title: ""
 
 ### Working Papers
 
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)<br>
+Revise and Resubmit, **_Journal of Politics_**.
+
 [Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](assets/kofsp.pdf) (with David Lindsey and Matt Malis) <br>
-Revise and Resubmit, **_Nature: Scientific Data_**
+Revise and Resubmit, **_Nature: Scientific Data_**.
 
 Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
 [Organized Business in the American City](assets/chambers_may_26.pdf)<br>
 Under review. Previously titled "Industrial Diversification and the Rise of the Local Chamber."
-
-[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)<br>
-Under review.
 
 [Diplomatic Capacity and International Cooperation](assets/capacity_oct_2025.pdf) (with Matt Malis)
 
