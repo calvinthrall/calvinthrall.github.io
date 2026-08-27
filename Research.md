@@ -5,6 +5,8 @@ title: ""
 
 ### Peer-reviewed Publications
 
+[9] [Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](assets/kofsp_revised.pdf) (with David Lindsey and Matt Malis) <br>
+Forthcoming, **_Nature: Scientific Data_**.
 
 [8] [Does Transparency Improve Public Policy? Evidence from a Tax Incentive Transparency Initiative](assets/gasb_final.pdf) (with Nathan M. Jensen)<br>
 **_Economics & Politics_**, 2025, 37(3): 841-1178.
@@ -42,13 +44,10 @@ title: ""
 [Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)<br>
 Revise and Resubmit, **_Journal of Politics_**.
 
-[Key Officers of U.S. Foreign Service Posts: A Dataset of Diplomatic Representation, 1966-2017](assets/kofsp.pdf) (with David Lindsey and Matt Malis) <br>
-Revise and Resubmit, **_Nature: Scientific Data_**.
-
 Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
 [Organized Business in the American City](assets/chambers_may_26.pdf)<br>
-Under review. Previously titled "Industrial Diversification and the Rise of the Local Chamber."
+Previously titled "Industrial Diversification and the Rise of the Local Chamber."
 
 [Diplomatic Capacity and International Cooperation](assets/capacity_oct_2025.pdf) (with Matt Malis)
 
@@ -67,6 +66,8 @@ Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 The China Lobby and The China Shock (with Samantha Mussell)
 
 Global Governance By Invitation Only (with Noah Zucker)
+
+Zone Defense: Land Use Policy and Lobbying in Cities
 
 Measuring Academic Prestige (with Anne Meng)
 
