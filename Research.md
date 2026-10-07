@@ -13,7 +13,7 @@ Forthcoming, **_Nature: Scientific Data_**.
 
 [7] [Informational Lobbying and Commercial Diplomacy](assets/t4_ajps.pdf)<br>
 **_American Journal of Political Science_**, 2025, 69(3): 1147-1162.
-- Best Article Award, APSA International Collaboration Section, 2025.
+- Best Article Award, APSA International Collaboration Section, 2026.
 
 [6] [Spillover Effects in International Law: Evidence from Tax Planning](assets/taxplanning_isq_manuscript_revised_full.pdf) <br>
 **_International Studies Quarterly_**, 2025, 69(1). 
@@ -36,20 +36,25 @@ Forthcoming, **_Nature: Scientific Data_**.
 
 ### Other Publications
 
+[2] [Information Provision in Lobbying](assets/information_in_lobbying.pdf). In: SAGE Encyclopedia of Interest
+Groups and Lobbying. Edited by Newmark, Adam, and Anthony Nownes. SAGE Publications.
+
 [1] [Ownership and Trust in Banks: Evidence from the First Bank in an American Indian Nation](assets/ASSA_Draft_PP_7Jan2020_v2.pdf) (with D.L. Feir and Rachel L. Wellhausen)<br>
 **_American Economic Association: Papers and Proceedings_**, 2021, 111: 227-232.
 
 ### Working Papers
 
-[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_may_26.pdf) (with Simran Singh and Noah Zucker)<br>
-Revise and Resubmit, **_Journal of Politics_**.
+[Greener Pastures? A Labor Market Theory of Climate Governance](assets/experts_JOP_accepted.pdf) (with Simran Singh and Noah Zucker)<br>
+Conditionally accepted, **_Journal of Politics_**.
 
-Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
+[The China Lobby and The China Shock](assets/chinalobby_oct_26.pdf) (with Samantha Mussell)
 
 [Organized Business in the American City](assets/chambers_may_26.pdf)<br>
 Previously titled "Industrial Diversification and the Rise of the Local Chamber."
 
 [Diplomatic Capacity and International Cooperation](assets/capacity_oct_2025.pdf) (with Matt Malis)
+
+Representation Without Authority: Evidence from Gender Disparities in the U.S. Foreign Service (with David Lindsey and Matt Malis)
 
 [Transnational Information Shocks](assets/bkt_nov_2024.pdf) (with Daniel Berliner and Nikhil Kalyanpur)
 
@@ -63,11 +68,11 @@ _The Atomizers: Multinational Firms and the Fragmentation of Global Economic Gov
 
 Revolving Door Diplomats (with Seowoo Chung, David Lindsey, and Matt Malis)
 
-The China Lobby and The China Shock (with Samantha Mussell)
-
 Global Governance By Invitation Only (with Noah Zucker)
 
-Zone Defense: Land Use Policy and Lobbying in Cities
+Local Lobbying in the United States (with Trevor Incerti and Alexander Sahn)
+
+Zoning as Industrial Policy
 
 Measuring Academic Prestige (with Anne Meng)
 
